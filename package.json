@@ -1,0 +1,10 @@
+{
+  "name": "swagger-combine",
+  "version": "1.0.0",
+  "description": "Combines multiple swagger docs into a single",
+  "main": "index.js",
+  "dependencies": {
+    "swagger-combine": "^0.10.0"
+  },
+  "devDependencies": {}
+}
